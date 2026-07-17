@@ -1,0 +1,104 @@
+# סקויישי כוח — Generative Engine Optimization Map
+
+> צור לי אתר קנייה למוצר הזה
+
+---
+
+## Pages
+
+### בית
+https://-0ec1fd5e.zappy5.app
+גלו את הדרך הכיפית לשחרר מתחים עם כדורי סקוויש להקלה על לחץ. חיזוק אחיזה, ריכוז משופר ורגיעה מיידית בכל מעיכה. הזמינו עכשיו את השקט שלכם!
+
+### אודות
+https://-0ec1fd5e.zappy5.app/about
+מאחורי כל מעיכה מסתתר חזון. הכירו את הצוות שמביא לכם את צעצועי סקוויש לכושר ידיים האיכותיים ביותר. הצטרפו למסע לשיפור המיקוד והרוגע היומיומי.
+
+### גלריה
+https://-0ec1fd5e.zappy5.app/gallery
+צפו במגוון המרהיב של גאדג&#39;טים להפגת מתחים חדשניים. מכדורי ג&#39;לי ועד צורות מפתיעות, כל סקוויש מחכה לכם. רפרפו, תתאהבו, ותבחרו את המושלם שלכם!
+
+### צור קשר
+https://-0ec1fd5e.zappy5.app/contact
+יש שאלה על כדורי סקוויש להקלה על לחץ? רוצים המלצה אישית? צוות סקויישי כוח כאן בשבילכם. מלאו פרטים ונלחץ יחד על כפתור השלווה. מבטיחים לחזור מהר!
+
+### Products
+https://-0ec1fd5e.zappy5.app/products
+המוצרים שלנו - סקויישי כוח
+
+### Cart
+https://-0ec1fd5e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-0ec1fd5e.zappy5.app/checkout
+תשלום
+
+### Login
+https://-0ec1fd5e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-0ec1fd5e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-0ec1fd5e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-0ec1fd5e.zappy5.app/product/:slug
+פרטי המוצר - סקויישי כוח
+
+### Category
+https://-0ec1fd5e.zappy5.app/category/:slug
+מוצרים - סקויישי כוח
+
+### תודה רבה - סקווישי כוח
+https://-0ec1fd5e.zappy5.app/thank-you
+תודה שפנית לסקווישי כוח. ההודעה שלך התקבלה בהצלחה. אנו מציעים כדורי סקוויש להקלה על לחץ וצעצועי כושר לידיים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-0ec1fd5e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-0ec1fd5e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-0ec1fd5e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סקויישי כוח
+צור לי אתר קנייה למוצר הזה
+
+## Target Audience
+- חובבי כושר
+- מחפשי הקלה מלחץ
+- אוהבי גאדג'טים חדשניים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-0ec1fd5e.zappy5.app/sitemap.xml
+- Robots: https://-0ec1fd5e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-0ec1fd5e.zappy5.app/llms-full.txt
+- Products (JSON): https://-0ec1fd5e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-0ec1fd5e.zappy5.app/product-feed.xml
